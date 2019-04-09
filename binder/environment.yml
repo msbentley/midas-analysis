@@ -1,0 +1,15 @@
+name: midas-analysis
+channels:
+  - damianavila82
+  - astropy
+  - conda-forge
+dependencies:
+  - python=3
+  - numpy
+  - matplotlib
+  - pandas
+  - astroquery
+  - plotly
+  - pvl
+  - rise
+
